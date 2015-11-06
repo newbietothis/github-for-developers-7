@@ -7,3 +7,5 @@
 **Favorite Food:** Pizza
 
 **Hobby:** Tennis
+
+**Favorite Color:** Blue
