@@ -9,3 +9,5 @@
 **Hobby:** Tennis
 
 **Favorite Color:** Blue
+
+**City:** New York City, New York
